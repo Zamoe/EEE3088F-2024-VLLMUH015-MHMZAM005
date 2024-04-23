@@ -1,0 +1,22 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C3,0.1u,C_0805_2012Metric,118.0,-119.5,90.0,top
+C4,0.1u,C_0805_2012Metric,117.0,-115.45,-90.0,top
+C5,0.1u,C_0805_2012Metric,111.0,-116.0,180.0,top
+C6,0.1u,C_0805_2012Metric,105.05,-118.5,0.0,top
+C7,10u,C_0805_2012Metric,113.0,-127.0,90.0,top
+C8,10u,C_0805_2012Metric,125.5,-128.5,-90.0,top
+D1,LED,LED_0805_2012Metric,127.9375,-121.92,180.0,top
+D2,LED,LED_0805_2012Metric,116.84,-134.0,180.0,top
+J1,Conn_02x08_Odd_Even,PinSocket_2x08_P2.54mm_Vertical,119.755,-98.25,90.0,top
+J2,Conn_02x01,PinSocket_1x02_P2.54mm_Vertical,131.5,-125.75,0.0,top
+J3,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,129.0,-113.735,0.0,top
+R1,10k,R_0805_2012Metric,114.5,-111.9125,-90.0,top
+R2,10k,R_0805_2012Metric,114.5,-115.9125,-90.0,top
+R3,2.2k,R_0805_2012Metric,108.9125,-120.5,180.0,top
+R4,1.1k,R_0805_2012Metric,109.5,-125.0,-90.0,top
+R6,0.4,R_0805_2012Metric,111.5,-133.4125,-90.0,top
+R7,1k,R_0805_2012Metric,124.4125,-125.5,0.0,top
+R8,1k,R_0805_2012Metric,120.9125,-131.5,180.0,top
+U2,DRV8837,WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm,122.75,-112.95,90.0,top
+U3,DRV8837,WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm,110.05,-111.75,180.0,top
+U4,TP4056,ESOP8_UMW-L,118.5,-126.0,0.0,top
